@@ -1,1 +1,1 @@
-# spotifyreplica
+# Replica da página do Spotify Premium
