@@ -1,4 +1,5 @@
 # Réplica da página do Spotify Premium
+#Versão não responsiva AINDA.
 
 link para visualização: https://viniznn777.github.io/spotifyreplica/
 
